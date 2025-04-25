@@ -8,7 +8,7 @@ import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import MYCV from '../../assets/CV Farah azizii.pdf';
-import MYCV2 from '../../assets/Farah Resume.pdf';
+import MYCV2 from '../../assets/Farah Azizi Resume.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 export default function Hero() {
