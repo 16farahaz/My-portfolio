@@ -8,7 +8,7 @@ import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import MYCV from '../../assets/CV Farah azizii.pdf';
-import MYCV2 from '../../assets/Farah Azizi Resume.pdf';
+import MYCV2 from '../../assets/new cv.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 export default function Hero() {
@@ -35,9 +35,13 @@ export default function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        Professional and Motivated Web Developer.
-
-A highly skilled and dedicated web developer with a degree in General Computer Science. Experienced in a wide range of development projects, showcasing a strong portfolio of successful applications. Known for being dynamic, curious, and autonomous, with a passion for learning and staying up-to-date with the latest industry trends. Adept at problem-solving and working both independently and collaboratively within a team. Committed to delivering high-quality, user-friendly web solutions.
+        Professional and Motivated Software Engineer.
+        A highly skilled and dedicated web developer. 
+        Experienced in a wide range of development projects, 
+        Known for being dynamic, curious, and autonomous, 
+        with a passion for learning and staying up-to-date with the latest industry trends. 
+        Adept at problem-solving and working both independently and collaboratively within a team. 
+        Committed to delivering high-quality, user-friendly web solutions.
 
 
         </p>
