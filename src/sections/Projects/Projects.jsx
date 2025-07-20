@@ -6,6 +6,8 @@ import ProjectCard from '../../common/ProjectCard';
 import freshBurger from '../../assets/fresh-burger.png';
 import auditcamp from '../../assets/AuditCamp.png';
 import letsgo from '../../assets/logo.png';
+import xpert from '../../assets/Xpert.png';
+
 
 function Projects() {
   return (
@@ -14,6 +16,12 @@ function Projects() {
       <div className={Styles.projectsContainer}>
 
 
+      <ProjectCard 
+       src={xpert} 
+       link="https://github.com/16farahaz/Pojet--PFE-Farah-Azizi.git"
+       h3="SFM Xpert" 
+       p="Intelligent Task Manager with AI Assistance"/> 
+       <br />
       <ProjectCard 
        src={letsgo} 
        link="https://github.com/16farahaz/letsgo.git"
