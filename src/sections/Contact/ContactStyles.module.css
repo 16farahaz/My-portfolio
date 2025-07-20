@@ -10,7 +10,28 @@
     flex-direction: column;
     gap: 30px;
   }
+/* Contact.module.css */
+.successMessage {
+  color: var(--text-color);
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px auto;
+  text-align: center;
+  display: flex;
+    flex-direction: column;
+    gap: 30px;
   
+}
+.btnback {
+  margin-top: 20px;
+}
+  .errorMessage {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px auto;
+  }
+
   textarea,
   input:not([type='submit']) {
     height: 50px;

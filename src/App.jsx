@@ -5,6 +5,8 @@ import Skills from './sections/Skills/Skills';
 import Contact from './sections/Contact/Contact';
 import Footer from './sections/Footer/Footer';
 import ParticlesBackground from './ParticlesBackground';
+import { Toaster } from 'react-hot-toast';
+
 
 
 
