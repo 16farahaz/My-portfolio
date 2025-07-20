@@ -64,8 +64,8 @@ button:active {
 
 .colorMode {
   position: absolute;
-  right: 0;
-  width: 25px;
+  
+  width: 45px;
 }
 
 .colorMode:hover {
